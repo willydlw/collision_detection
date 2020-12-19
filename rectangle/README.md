@@ -100,4 +100,4 @@ We add these conditions to our psuedocode.
 
 ### Program Solution
 
-The programming solution is found in the Processing sketch [rectangle_collision.pde]. Note that we have tested rectangles of the same size. Will this code work rectangles of various sizes? This is left as an exercise to the reader.
+The programming solution is found in the Processing sketch [rectangle.pde](rectangle.pde). Note that we have tested rectangles of the same size. Will this code work rectangles of various sizes? This is left as an exercise to the reader.
