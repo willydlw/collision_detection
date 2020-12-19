@@ -2,5 +2,5 @@
 
 ## Axis-Aligned Bounding Box 
 
-[Rectangle collision](./rectangle_collision/README.md)
+[Rectangle collision](./rectangle/README.md)
 
