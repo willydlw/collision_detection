@@ -2,7 +2,7 @@
 
 This algorithm calculates the distance between the center points of two circles. There is no collision if the separation distance is less than the sum of the circles' radii.
 
-![circle distance](./circle_collision.png "distance between centers")</br></br>
+![circle distance](./images/circle_collision.png "distance between centers")</br></br>
 
 Figure 1</br></br>
 
